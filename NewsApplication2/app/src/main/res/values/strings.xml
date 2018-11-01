@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快看新闻</string>
+    <string name="appbar_scrolling_view_behavior">
+        android.support.design.widget.AppBarLayout$ScrollingViewBehavior
+    </string>
+    <drawable name="clr_normal">#f2f1f0</drawable>
+    <drawable name="clr_pressed">#dbdbdb</drawable>
+</resources>
